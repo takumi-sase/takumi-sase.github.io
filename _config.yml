@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Takumi Sase, Ph.D.
 description: dynamical systems
+markdown: kramdown
