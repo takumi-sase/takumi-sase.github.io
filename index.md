@@ -1,5 +1,5 @@
 
-## Takumi Sase
+## Takumi Sase (Ph.D)
 Assistant Professor
 
 Department of Computer Science
