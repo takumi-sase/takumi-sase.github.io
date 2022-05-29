@@ -1,4 +1,4 @@
-## Current Position
+## Present Position
 Assistant Professor
 
 Department of Computer Science
