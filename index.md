@@ -1,5 +1,3 @@
-[Education](/edu.md)
-
 ## Takumi Sase, Ph.D.
 Assistant Professor
 
