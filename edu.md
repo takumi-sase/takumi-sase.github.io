@@ -2,9 +2,13 @@
 
 # Education
 
-| Year  | Qualification | Institution | Thesis title |
-| --- | --- | --- | --- |
-| 2016  | **Ph.D. in Information Science and Technology** | The University of Tokyo | Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain
-| 2012  | Master in Engineering | Nagaoka University of Technology | |
-| 2010  | Bachalor of Engineering | Nagaoka University of Technology | |
-| 2008  |   | Kisarazu National Institute of Technology |
+<dl>
+<dt>2016</dt>
+<dd>Ph.D. in Information Science and Technology, The University of Tokyo, Japan, Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain</dd>
+<dt>2012</dt>
+<dd>Master in Engineering, Nagaoka University of Technology, Japan</dd>
+<dt>2010</dt>
+<dd>Bachalor of Engineering, Nagaoka University of Technology, Japan</dd>
+<dt>2008</dt>
+<dd>Kisarazu National Institute of Technology, Japan</dd>
+</dl>
