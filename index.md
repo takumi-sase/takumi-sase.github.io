@@ -1,6 +1,6 @@
 
 ## Takumi Sase, Ph.D.
-**Assistant Professor**
+Assistant Professor
 
 Department of Computer Science
 
