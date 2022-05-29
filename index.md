@@ -8,4 +8,4 @@ Department of Computer Science
 
 [International Islamic University Malaysia (IIUM)](https://www.iium.edu.my/v2/)
 
-P.O. Box 10, 50728 Kuala Lumpur
+P.O. Box 10, 50728 Kuala Lumpur, Malaysia
