@@ -4,7 +4,8 @@
 
 <dl>
 <dt>2016</dt>
-<dd>Ph.D. in Information Science and Technology, The University of Tokyo, Japan, Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain</dd>
+<dd>Ph.D. in Information Science and Technology, The University of Tokyo, Japan</br>
+    Thesis title: Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain</dd>
 <dt>2012</dt>
 <dd>Master in Engineering, Nagaoka University of Technology, Japan</dd>
 <dt>2010</dt>
