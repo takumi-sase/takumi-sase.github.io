@@ -10,8 +10,6 @@ International Islamic University Malaysia (IIUM)
 
 P.O. Box 10, 50728 Kuala Lumpur
 
-***
-
 Phone: (+603) 6421 6415
 
 Email: takumi@iium.edu.my
