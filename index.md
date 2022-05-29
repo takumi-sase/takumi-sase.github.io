@@ -12,4 +12,4 @@ P.O. Box 10, 50728 Kuala Lumpur
 
 Phone: (+603) 6421 6415
 
-Email: takumi@iium.edu.my | sase.t.5523@gmail.com
+Email: takumi@iium.edu.my
