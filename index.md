@@ -1,4 +1,4 @@
-## Takumi Sase, Ph.D.
+## Present Position
 Assistant Professor
 
 Department of Computer Science
