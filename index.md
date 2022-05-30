@@ -1,5 +1,3 @@
-Education
-
 ## Present Position
 Assistant Professor
 
