@@ -7,8 +7,8 @@
 <dt>03/2016</dt>
     <dd><strong>Ph.D. in Information Science and Technology</strong><br/>
     Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan<br/>
-    Laboratories for Mathematics, Lifesciences, and Informatics<br/>
     Thesis title: <a href="https://repository.dl.itc.u-tokyo.ac.jp/records/48069#.YpQgr-7itPb">Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain (脳における多重時間スケールを有する非線形ダイナミクスの解析)</a><br/>
+    Laboratories for Mathematics, Lifesciences, and Informatics<br/>
     Supervisor: Prof. Dr. Kazuyuki Aihara</dd>
 <dt>03/2012</dt>
 <dd><strong>Master in Engineering</strong><br/>
