@@ -1,6 +1,6 @@
 [Back](index.md) 
 
-# Education
+## Education
 
 <dl>
 <dt>03/2016</dt>
