@@ -15,7 +15,10 @@
     Chaos & Fractals Informatics Laboratory</br>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd></dd>
 <dt>03/2010</dt>
-<dd>Bachalor of Engineering, Nagaoka University of Technology, Japan</dd>
+<dd>Bachalor of Engineering</dd>
+    Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Nagaoka University of Technology, Japan</br>
+    Chaos & Fractals Informatics Laboratory</br>
+    Supervisor: Prof. Dr. Masahiro Nakagawa</dd></dd>
 <dt>03/2008</dt>
 <dd>Kisarazu National Institute of Technology, Japan</dd>
 </dl>
