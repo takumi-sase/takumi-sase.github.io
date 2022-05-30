@@ -10,7 +10,7 @@
     Thesis title: <a href="https://repository.dl.itc.u-tokyo.ac.jp/records/48069#.YpQgr-7itPb">Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain (脳における多重時間スケールを有する非線形ダイナミクスの解析)</a></br>
     Supervisor: Prof. Dr. Kazuyuki Aihara</dd>
 <dt>03/2012</dt>
-<dd><strong>Master of Engineering</strong></br>
+<dd><strong>Master in Engineering</strong></br>
     Department of Electrical, Electronics and Information Engineering, Graduate School of Engineering, Nagaoka University of Technology, Japan</br>
     Chaos & Fractals Informatics Laboratory</br>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd></dd>
@@ -20,7 +20,7 @@
     Chaos & Fractals Informatics Laboratory</br>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd></dd>
 <dt>03/2008</dt>
-<dd><strong>Associate of Engineering</strong></br>
+<dd><strong>Associate in Engineering</strong></br>
     Department of Information and Computer Engineering</br>
     National Institute of Technology, Kisarazu College, Japan</br>
     Supervisor: Prof. Dr. Ikusaburo Kurimoto</dd>
