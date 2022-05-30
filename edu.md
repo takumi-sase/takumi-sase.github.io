@@ -22,6 +22,7 @@
 <dt>03/2008</dt>
 <dd><strong>Associate in Engineering</strong></br>
     Department of Information and Computer Engineering</br>
-    National Institute of Technology, Kisarazu College, Japan</dd>
-    Supervisor: Prof. Dr. Ikusaburo Kurimoto</dd></dd>
+    National Institute of Technology, Kisarazu College, Japan</br>
+    Supervisor: Prof. Dr. Ikusaburo Kurimoto</dd>
+</dd>
 </dl>
