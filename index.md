@@ -1,4 +1,5 @@
 [Education](/edu.md)
+* * *
 
 ## Present Position
 Assistant Professor
