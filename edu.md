@@ -20,5 +20,7 @@
     Chaos & Fractals Informatics Laboratory</br>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd></dd>
 <dt>03/2008</dt>
-<dd>Kisarazu National Institute of Technology, Japan</dd>
+<dd><strong>Associate in Engineering</strong></br>
+    Department of Information and Computer Engineering</br>
+    National Institute of Technology, Kisarazu College, Japan</dd>
 </dl>
