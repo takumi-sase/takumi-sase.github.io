@@ -1,4 +1,4 @@
-[Education](/edu.md)
+[Education](/edu.md) | Experience
 * * *
 
 ## Present Position
