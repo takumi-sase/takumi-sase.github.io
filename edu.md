@@ -11,7 +11,7 @@
     Laboratories for Mathematics, Lifesciences, and Informatics<br/>
     Supervisor: Prof. Dr. Kazuyuki Aihara</dd>
 <dt>03/2012</dt>
-<dd><strong>Master in Engineering</strong><br/>
+<dd><strong>Master of Engineering</strong><br/>
     Department of Electrical, Electronics and Information Engineering, Graduate School of Engineering, Nagaoka University of Technology, Japan<br/>
     Chaos & Fractals Informatics Laboratory<br/>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd>
@@ -21,7 +21,7 @@
     Chaos & Fractals Informatics Laboratory<br/>
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd>
 <dt>03/2008</dt>
-<dd><strong>Associate in Engineering</strong><br/>
+<dd><strong>Associate of Engineering</strong><br/>
     Department of Information and Computer Engineering, National Institute of Technology, Kisarazu College, Japan<br/>
     Supervisor: Prof. Dr. Ikusaburo Kurimoto</dd>
 </dl>
