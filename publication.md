@@ -12,4 +12,9 @@
         <li><u>Takumi Sase</u>, Yuichi Katori, Motomasa Komuro, and Kazuyuki Aihara (2017). <b>Bifurcation Analysis on Phase-Amplitude Cross-Frequency Coupling in Neural Networks with Dynamic Synapses</b>. <i>Frontiers in Computational Neuroscience</i> 11(18). <a href="https://www.frontiersin.org/article/10.3389/fncom.2017.00018">DOI</a></li>
         <li><u>Takumi Sase</u>, Jonatán Peña Ramírez, Keiichi Kitajo, Kazuyuki Aihara, and Yoshito Hirata (2016). <b>Estimating the level of dynamical noise in time series by using fractal dimensions</b>. <i>Physics Letters A</i> 380(11&ndash;12). <a href="https://doi.org/10.1016/j.physleta.2016.01.014">DOI</a></li>
     </ol></dd>
+
+<dt>Preprint</dt>
+    <dd><ol>
+        <li>Keiichi Kitajo, <u>Takumi Sase</u>, Yoko Mizuno, and Hiromichi Suetani (2020). <b>Consistency in macroscopic human brain responses to noisy time-varying visual inputs</b>. <i>bioRxiv</i> 645499. <a href="https://doi.org/10.1101/645499">DOI</a></li>
+    </ol></dd>
 </dl>
