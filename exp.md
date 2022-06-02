@@ -13,6 +13,6 @@
     <dd><strong>Visiting Researcher</strong>, Rhythm-based Brain Information Processing Unit, RIKEN CBS-TOYOTA Collaboration Center, RIKEN Center for Brain Science, Japan</dd>
 <dt>04/2016&ndash;03/2018</dt>
     <dd><strong>Research Scientist</strong>, Rhythm-based Brain Information Processing Unit, RIKEN BSI-TOYOTA Collaboration Center, RIKEN Brain Science Institute, Japan</dd>
-<dt>04/2016&ndash;03/2018</dt>
+<dt>10/2015&ndash;03/2016</dt>
     <dd><strong>Technical Staff</strong>, Rhythm-based Brain Information Processing Unit, RIKEN BSI-TOYOTA Collaboration Center, RIKEN Brain Science Institute, Japan</dd>
 </dl>
