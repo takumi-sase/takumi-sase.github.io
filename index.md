@@ -1,4 +1,4 @@
-[Education](/edu.md) | [Experience](/exp.md) | Teaching
+[Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md)
 * * *
 
 ## Present Position
