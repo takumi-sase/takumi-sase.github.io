@@ -23,5 +23,7 @@
         <li><u>Takumi Sase</u>, Keiichi Kitajo, Kazuyuki Aihara, and Yoshito Hirata (2014). <b>Temporal changes of the  level of dynamical noise in EEG dynamical systems: A representation using fractional Brownian motion</b>. <i>SEISAN KENKYU</i>, 66(3): 299&ndash;303. <a href="https://doi.org/10.11188/seisankenkyu.66.299">DOI</a></li>
         <li><u>Takumi Sase</u>, Keiichi Kitajo, and Kazuyuki Aihara (2013). <b>Effect of gamma waves on EEG fractal structure</b>. <i>SEISAN KENKYU</i>, 65(3): 325&ndash;328. <a href="https://doi.org/10.11188/seisankenkyu.65.325">DOI</a></li>
         <li><u>Takumi Sase</u> and Masahiro Nakagawa (2012). <b>Olfactory and Sensibility : On the emotion fractal analysis method by EEGs</b>. <i>Journal of Aroma Science of Technology</i>, 13(1): 16&ndash;20.</li>
-    </ol></dd>    
+        <li>Chiemi Habu, Hiromi Yamamoto, Kiyoshi Miyazawa, <u>Takumi Sase</u>, and Masahiro Nakagawa (2012). <b>The fragrance requested from products: Affective effects of fragrance on fractal analysis</b>. <i>Journal of Aroma Science of Technology</i>, 13(1): 21&ndash;25.</li>
+        <li><u>Takumi Sase</u>, Takeo Kondo, and Masahiro Nakagawa (2011). <b>Relationship between Oxyhemodynamics and EEG Dynamics of Primary Sensory Area</b>. <i>IEICE Technical Report</i>, 111(217): 21&ndash;26.</li>
+        </ol></dd>    
 </dl>
