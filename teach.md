@@ -4,20 +4,20 @@
 ## Teaching Experience
 
 <dl>
-<dt>Sem 2, 2021/2022</dt>
+<dt>2021/2022&ndash;Sem 2</dt>
     <dd><ul>
         <li>Elements of Programming</li>
         <li>Mathematics for Computing I</li>
         <li>Final Year Project I</li></ul></dd>
-<dt>Sem 1, 2021/2022</dt>
+<dt>2021/2022&ndash;Sem 1</dt>
     <dd><ul>
         <li>Elements of Programming</li>
         <li>Mathematics for Computing I</li></ul></dd>
-<dt>Sem 2, 2020/2021</dt>
+<dt>2020/2021&ndash;Sem 2</dt>
     <dd><ul>
         <li>Elements of Programming</li>
         <li>Mathematics for Computing I</li></ul></dd>
-<dt>Sem 1, 2020/2021</dt>
+<dt>2020/2021&ndash;Sem 1</dt>
     <dd><ul>
         <li>Elements of Programming</li>
         <li>Mathematics for Computing I</li></ul></dd>
