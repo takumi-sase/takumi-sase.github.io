@@ -5,7 +5,7 @@
 
 <dl>
 <dt>03/2016</dt>
-    <dd><strong>Ph.D. in Information Science and Technology</strong><br/>
+    <dd><strong>Doctor of Philosopy in Information Science and Technology</strong><br/>
     Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan<br/>
     Thesis title: <a href="https://repository.dl.itc.u-tokyo.ac.jp/records/48069#.YpSq21PmhPw">Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain (脳における多重時間スケールを有する非線形ダイナミクスの解析)</a><br/>
     Laboratories for Mathematics, Lifesciences, and Informatics<br/>
