@@ -22,6 +22,6 @@
     Supervisor: Prof. Dr. Masahiro Nakagawa</dd>
 <dt>03/2008</dt>
 <dd><strong>Associate of Engineering</strong><br/>
-    Department of Information and Computer Engineering, National Institute of Technology, Kisarazu College, Japan<br/>
+    Department of Information and Computer Engineering, Kisarazu National College of Technology, Japan<br/>
     Supervisor: Prof. Dr. Ikusaburo Kurimoto</dd>
 </dl>
