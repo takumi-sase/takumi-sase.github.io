@@ -24,3 +24,5 @@
 2. <u>Takumi Sase</u> and Masahiro Nakagawa (2011). **A Study on the High Frequency Components of EEGs and the Evaluation Methods of Fractal Dimensions**. *IEICE Technical Report*, 110(465): 105&ndash;110.
 3. <u>Takumi Sase</u>, Takeo Kondo, and Masahiro Nakagawa (2011). **An Attempt of Emotional State Determination by the Local-Simultaneous Measurement of Hemodynamics and EEG Dynamics**. *IEICE Technical Report*, 110(294): 57&ndash;62.
 4. <u>Takumi Sase</u> and Masahiro Nakagawa (2010). **On the NIRS Emotion Analysis by with Semi-Parametric Statistics**. *IEICE Technical Report*, 110(122): 1&ndash;6.
+5. <u>Takumi Sase</u> and Masahiro Nakagawa (2009). **A Study on the Relationship between Hemodynamics and EEG Dynamics of Cerebral Cortex**. *IEICE Technical Report*, 109(50): 9&ndash;14.
+
