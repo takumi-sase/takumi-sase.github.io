@@ -13,4 +13,4 @@ Department of Computer Science
 P.O. Box 10, 50728 Kuala Lumpur, Malaysia
 
 ## Contacts
-Email: takumi (at) iium.edu.my \| Phone: (+603) 6421 6415 \| Office: C4-30 \| Telegram: (at) takumi_iium
+Email: takumi (at) iium.edu.my \| Phone: (+603) 6421 6415 \| Office: C4-30
