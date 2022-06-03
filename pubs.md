@@ -21,4 +21,4 @@
 
 ### Misc
 1. <u>Takumi Sase</u>, Takeo Kondo, and Masahiro Nakagawa (2011). **Relationship between Oxyhemodynamics and EEG Dynamics of Primary Sensory Area**. *IEICE Technical Report*, 111(217): 21&ndash;26.
-2. 
+2. <u>Takumi Sase</u> and Masahiro Nakagawa (2011). **A Study on the High Frequency Components of EEGs and the Evaluation Methods of Fractal Dimensions**. *IEICE Technical Report*, 110(465): 105&ndash;110.
