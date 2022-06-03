@@ -18,6 +18,7 @@
 2. <u>Takumi Sase</u>, Keiichi Kitajo, and Kazuyuki Aihara (2013). **Effect of gamma waves on EEG fractal structure**. *SEISAN KENKYU*, 65(3): 325&ndash;328. [DOI](https://doi.org/10.11188/seisankenkyu.65.325)
 3. <u>Takumi Sase</u> and Masahiro Nakagawa (2012). **Olfactory and Sensibility: On the emotion fractal analysis method by EEGs**. *Journal of Aroma Science of Technology*, 13(1): 16&ndash;20.
 4. Chiemi Habu, Hiromi Yamamoto, Kiyoshi Miyazawa, <u>Takumi Sase</u>, and Masahiro Nakagawa (2012). **The fragrance requested from products: Affective effects of fragrance on fractal analysis**. *Journal of Aroma Science of Technology*, 13(1): 21&ndash;25.
+5. <u>Takumi Sase</u>, Ikusaburo Kurimoto, and Masahiro Nakagawa (2008). **Interactive Brain Functional Analyzer for Near-Infrared Spectroscopy**. *Journal of the Japan Association for College of Technology*, 13(2): 61&ndash;66.
 
 ### Misc
 1. <u>Takumi Sase</u>, Takeo Kondo, and Masahiro Nakagawa (2011). **Relationship between Oxyhemodynamics and EEG Dynamics of Primary Sensory Area**. *IEICE Technical Report*, 111(217): 21&ndash;26.
