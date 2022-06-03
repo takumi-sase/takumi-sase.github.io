@@ -1,4 +1,4 @@
-[Back](/index.md) | [Google Scholar](https://scholar.google.com/citations?user=iaMm8fkAAAAJ&hl=en&oi=ao)
+[Back](/index.md)
 * * *
 
 ## Publications
