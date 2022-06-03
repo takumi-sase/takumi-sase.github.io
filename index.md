@@ -11,3 +11,5 @@ Department of Computer Science
 [International Islamic University Malaysia (IIUM)](https://www.iium.edu.my/v2/)
 
 P.O. Box 10, 50728 Kuala Lumpur, Malaysia
+
+Email: takumi@iium.edu.my | Tel: (+603) 6421 6415
