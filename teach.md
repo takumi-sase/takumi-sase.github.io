@@ -10,7 +10,7 @@
 ### Teaching Experience
 <dl>
 <dt>2021/2022</dt>
-  <dd>Mathematics for Computing I, Elements of Programming, and Final Year Project I, in KICT, IIUM</dd>
+  <dd>Mathematics for Computing I, Elements of Programming, & Final Year Project I, in KICT, IIUM</dd>
 <dt>2020/2021</dt>
   <dd>Mathematics for Computing I & Elements of Programming, in KICT, IIUM</dd>
 </dl>
