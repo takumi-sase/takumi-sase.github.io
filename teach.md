@@ -1,4 +1,4 @@
-[Back](/index.md) | For Students
+[Back](/index.md)
 * * *
 
 ## Teaching
