@@ -9,7 +9,7 @@
 Computational Neuroscience, Applied Mathematics
 
 ### Expertise
-Nonlinear Dynamics, Mathematical Modelling, Bifurcation Analysis, Time Series Analysis, Signal Processing
+Dynamical Systems, Mathematical Modelling, Bifurcation Analysis, Time Series Analysis, Signal Processing
 
 ### Programming Languages
 C, C++, MATLAB, Python
