@@ -3,4 +3,4 @@
 
 ## Research
 ### Research Interests
-- **Mathematical Modelling of Human Brain Electro-Dynamics**
+- **Mathematical Modelling of Human Brain Electrodynamics**
