@@ -3,8 +3,9 @@
 
 ## Teaching
 ### Teaching Interests
-- **Mathematics**&mdash;Dynamical Systems Theory, Discrete Mathematics, Quantum Computing, etc.
+- **Mathematics**&mdash;Dynamical Systems Theory, Discrete Mathematics, etc.
 - **Programming**&mdash;Structured Programming, Object-Oriented Programming, etc.
+- **Quantum Computing**
 
 ### Teaching Experience
 <dl>
