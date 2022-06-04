@@ -3,7 +3,7 @@
 
 ## Research
 ### Research Interests
-- **Mathematical Modelling of Human Brain Electro-Rhythmic Dynamics**
+- **Mathematical Modelling of Human Brain Electrodynamics**
 
 ### Disciplines
 Computational Neuroscience, Applied Mathematics
