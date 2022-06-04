@@ -14,3 +14,6 @@
 <dt>2020/2021</dt>
   <dd>Mathematics for Computing I, Elements of Programming</dd>
 </dl>
+
+* * *
+### Discrete Mathematics
