@@ -15,5 +15,4 @@
   <dd>Mathematics for Computing I, Elements of Programming</dd>
 </dl>
 
-* * *
 ### Discrete Mathematics
