@@ -7,9 +7,9 @@ layout: default
 
 ## Teaching
 ### Teaching Interests
-- **Mathematics**&mdash;Dynamical Systems Theory, Discrete Mathematics
-- **Programming**&mdash;Structured Programming, Object-Oriented Programming
-- **Quantum Computing**
+- Mathematics&mdash;Dynamical Systems Theory, Discrete Mathematics
+- Programming&mdash;Structured Programming, Object-Oriented Programming
+- Quantum Computing
 
 ### Teaching Experience
 <dl>
