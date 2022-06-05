@@ -11,7 +11,7 @@ My interest is to find the first principle of brain computing. It means, to desc
 
 ### Research Topics
 - Mathematical Modelling of Human Brain Electrodynamics
-- Development of EEG Simulator
+- Development of the EEG Simulator
 
 ### Disciplines
 Computational Neuroscience, Applied Mathematics
