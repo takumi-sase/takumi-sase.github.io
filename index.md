@@ -4,7 +4,7 @@ layout: default
 
 [Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md) | [Research](/res.md) | [Publications](/pubs.md) | [Presentations](/presents.md)
 * * *
-a
+
 ## Present Position
 Assistant Professor
 
