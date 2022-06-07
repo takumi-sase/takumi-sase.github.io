@@ -6,10 +6,6 @@ layout: default
 * * *
 
 ## Teaching
-### Teaching Interests
-- Mathematics&mdash;Dynamical Systems Theory, Discrete Mathematics
-- Programming&mdash;Structured Programming, Object-Oriented Programming
-- Quantum Computing
 
 ### Teaching Experience
 <dl>
@@ -19,8 +15,8 @@ layout: default
   <dd>Mathematics for Computing I, Elements of Programming</dd>
 </dl>
 
-### Discrete Mathematics
+### Mathematics for Computing I
 
-### Structured Programming
+### Elements of Programming
 
 ### Final Year Project
