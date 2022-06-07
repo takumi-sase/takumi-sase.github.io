@@ -17,7 +17,7 @@ My interest is to find the first principle of brain computing. It means, to desc
 Computational Neuroscience, Applied Mathematics
 
 ### Expertise
-dynamical systems, mathematical modelling, bifurcation analysis, time series analysis, signal processing, EEG
+dynamical systems, mathematical modelling, time series analysis, signal processing, EEG
 
 ### Programming Languages
 C, C++, MATLAB, Python
