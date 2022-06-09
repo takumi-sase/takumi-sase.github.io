@@ -11,7 +11,7 @@ My interest is to unravel nonlinear dynamics of brain computing, at a macroscopi
 
 ### Research Topics
 - Mathematical Modelling of Nonlinear Human Brain Electrodynamics
-- Development of the EEG Simulators
+- Development of the EEG Simulator
 
 ### Disciplines
 Computational Neuroscience, Applied Mathematics
