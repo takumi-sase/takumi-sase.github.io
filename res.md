@@ -17,7 +17,7 @@ My interest is to unravel nonlinear dynamics of brain computing, at a macroscopi
 Computational Neuroscience, Applied Mathematics
 
 ### Expertise
-dynamical systems, bifurcation analysis, time series analysis, signal processing, EEG
+dynamical systems, time series analysis, bifurcation analysis, signal processing, EEG
 
 ### Programming Languages
 C, C++, MATLAB, Python
