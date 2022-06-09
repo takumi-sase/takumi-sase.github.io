@@ -7,7 +7,7 @@ layout: default
 
 ## Research
 ### Research Interests
-My interest is to find the first principle of brain computing. It means, to describe the brain system (neurons, synapses, networks) by mathematical equations, so that we can simulate brain's activity (EEG) on a computer.
+My interest is to unravel mathematics of brain's electric computing. It means, to describe the brain system (neurons, synapses, networks) by mathematical equations, so that we can simulate brain's activity (EEG) on a computer.
 
 ### Research Topics
 - Mathematical Modelling of Human Brain Electrodynamics
