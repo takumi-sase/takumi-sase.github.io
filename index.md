@@ -1,6 +1,5 @@
 ---
 layout: default
-description: dynamical systems, brain
 ---
 
 [Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md) | [Research](/res.md) | [Publications](/pubs.md) | [Presentations](/presents.md)
