@@ -10,8 +10,8 @@ layout: default
 My interest is to unravel nonlinear dynamics of brain computing, at a macroscopic level. It means, to describe the brain (neurons, synapses, networks) by a nonlinear dynamical system, so that we can simulate brain's activity (EEG etc.) on a computer.
 
 ### Research Topics
-- Mathematical Modelling of Human Brain Electrodynamics
-- Development of the EEG Simulator
+- Mathematical Modelling of Nonlinear Human Brain Electrodynamics
+- Development of the EEG Simulators
 
 ### Disciplines
 Computational Neuroscience, Applied Mathematics
