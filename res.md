@@ -17,7 +17,7 @@ My interest is to unravel mathematics of brain computing, at a macroscopic level
 Computational Neuroscience, Applied Mathematics
 
 ### Expertise
-dynamical systems, mathematical modelling, time series analysis, signal processing, EEG
+dynamical systems, bifurcation analysis, time series analysis, signal processing, EEG
 
 ### Programming Languages
 C, C++, MATLAB, Python
