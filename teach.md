@@ -18,6 +18,7 @@ layout: default
 ### Mathematics for Computing I
 In this course, students had oppotunities to learn about Discrete Mathematics, which is a part of mathematics devoted to the study of mathematical structures of discrete objects.
 
-### Elements of Programming (Structured Programming with C++)
+### Elements of Programming
+This course was designed to introduce students to the fundamentals of Structured Programming using C++.
 
 ### Final Year Project
