@@ -33,8 +33,8 @@ This course was designed to introduce students to *Structured Programming using 
 
 | Data type | Categories | |
 | --- | --- | --- |
-| Simple | | |
-| Structured | | |
+| Simple | integral, floating point | |
+| Structured | array, structure | |
 | Pointer | | |
 
 #### References
