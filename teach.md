@@ -20,9 +20,9 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 
 | Data dimension | Discrete structure | Topics in MFC1 |
 | --- | --- | --- |
-| 0 | | |
-| 1 | | |
-| 2 | | |
+| 0 | number, proposition | |
+| 1 | set, sequence, string | |
+| 2 | matrix, tree, graph | |
 
 #### References
 - Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
