@@ -21,7 +21,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 | Data dimension | Discrete structures | |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
-| 1 | set, sequence, string | a set/list of discrete objects |
+| 1 | set, sequence, string | a set of discrete objects (set, list) |
 | 2 | matrix, tree, graph | a relation between sets/on a set |
 
 #### References
