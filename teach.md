@@ -16,7 +16,7 @@ layout: default
 </dl>
 
 ### Mathematics for Computing I
-In this course, students had oppotunities to learn about *Discrete Mathematics* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref](#references) 1, 2
+In this course, students had oppotunities to learn about *Discrete Mathematics* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 1, 2](#references)
 
 | Data dimension | Discrete structures | |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 | 2 | matrix, tree, graph | a relation between sets/on a set |
 
 ### Elements of Programming
-This course was designed to introduce students to *Structured Programming using C++* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref](#references) 3, 4
+This course was designed to introduce students to *Structured Programming using C++* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
 
 | Data type | Categories | |
 | --- | --- | --- |
