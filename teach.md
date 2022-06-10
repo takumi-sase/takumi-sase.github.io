@@ -21,7 +21,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 | Data dimension | Discrete structures | |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
-| 1 | set, sequence, string | a set of discrete objects (set, list) |
+| 1 | set, sequence, string | a collection of discrete objects (set, list) |
 | 2 | matrix, tree, graph | a relation between sets/on a set |
 
 #### References
@@ -33,8 +33,8 @@ This course was designed to introduce students to *Structured Programming using 
 
 | Data type | Categories | |
 | --- | --- | --- |
-| Simple | integral, floating point | |
-| Structured | array, structure | |
+| Simple | integral, floating point | scalar data |
+| Structured | array, structure | a collection of a fixed number of items |
 | Pointer | | |
 
 #### References
