@@ -10,13 +10,13 @@ layout: default
 ### Teaching Experience
 <dl>
 <dt>2021/2022</dt>
-  <dd>Mathematics for Computing I, Elements of Programming, Final Year Project I</dd>
+  <dd>Elements of Programming, Mathematics for Computing I, Final Year Project I</dd>
 <dt>2020/2021</dt>
-  <dd>Mathematics for Computing I, Elements of Programming</dd>
+  <dd>Elements of Programming, Mathematics for Computing I</dd>
 </dl>
 
-### Mathematics for Computing I
-
 ### Elements of Programming
+
+### Mathematics for Computing I
 
 ### Final Year Project
