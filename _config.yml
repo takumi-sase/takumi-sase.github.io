@@ -2,3 +2,5 @@ title: Takumi Sase, Ph.D.
 
 plugins:
   - jekyll-sitemap
+
+theme: jekyll-theme-cayman
