@@ -18,7 +18,7 @@ layout: default
 ### Mathematics for Computing I
 In this course, students had oppotunities to learn about *Discrete Mathematics* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
-| Data dimension | Discrete structure | |
+| Data dimension | Discrete structures | |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
 | 1 | set, sequence, string | a collection of discrete objects (set, list) |
@@ -31,7 +31,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 ### Elements of Programming
 This course was designed to introduce students to *Structured Programming using C++* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
-| Data type | Category | |
+| Data type | Categories | |
 | --- | --- | --- |
 | Simple | integral, floating point | scalar data |
 | Structured | array, structure | a list of a fixed number of items |
