@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 佐瀬 巧
 description: 博士 (情報理工学)
 ---
