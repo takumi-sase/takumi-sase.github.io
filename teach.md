@@ -19,7 +19,7 @@ layout: default
 In this course, students had oppotunities to learn about *Discrete Mathematics* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
 | Data dimension | Discrete structure | Topics in MFC1 |
-| --- || --- | --- |
+| --- | --- | --- |
 | 0 | number, proposition | |
 | 1 | set, sequence, string | |
 | 2 | matrix, tree, graph | |
