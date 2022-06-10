@@ -18,7 +18,7 @@ layout: default
 ### Mathematics for Computing I
 In this course, students had oppotunities to learn about *Discrete Mathematics* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
-| Data dimension | Discrete structure | Topics in MFC1 |
+| Data dimension | Discrete structure | Topics |
 | --- | --- | --- |
 | 0 | number, proposition | Integers, Logic, Counting |
 | 1 | set, sequence, string | Set, Recurrence Relations |
@@ -31,7 +31,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 ### Elements of Programming
 This course was designed to introduce students to *Structured Programming using C++* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
-| Data type | C++ data type | Topics in EOP |
+| Data type | C++ data type | Topics |
 | --- | --- | --- |
 | Simple | | |
 | Structured | | |
