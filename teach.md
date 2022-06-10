@@ -34,7 +34,7 @@ This course was designed to introduce students to *Structured Programming using 
 | Data type | Categories | |
 | --- | --- | --- |
 | Simple | integral, floating point | scalar data |
-| Structured | array, structure | a collection of a fixed number of items |
+| Structured | array, structure | a list of a fixed number of items |
 | Pointer | | |
 
 #### References
