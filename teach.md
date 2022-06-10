@@ -31,11 +31,11 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 ### Elements of Programming
 This course was designed to introduce students to *Structured Programming using C++* (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022).
 
-| Data dimension | Data type | Topics in EOP |
+| Data type | Topics in EOP | Data dimension |
 | --- | --- | --- |
-| 0 | | |
-| 1 | | |
-| 2 | | |
+| Simple | | |
+| Structured | | |
+| Pointer | | |
 
 #### References
 - Malik, D. S. (2018), *C++ Programming: From Problem Analysis to Program Design* (7th ed.). United States: Cengage Learning.
