@@ -35,7 +35,7 @@ This course was designed to introduce students to *Structured Programming using 
 | --- | --- | --- |
 | Simple | integral, floating point | scalar data |
 | Structured | array, structure | a list of a fixed number of items |
-| Pointer | | |
+| Pointer | | memory addresses |
 
 #### References
 - Malik, D. S. (2018), *C++ Programming: From Problem Analysis to Program Design* (7th ed.). United States: Cengage Learning.
