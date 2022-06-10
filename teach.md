@@ -17,6 +17,13 @@ layout: default
 
 ### Mathematics for Computing I
 In this course, students had oppotunities to learn about *Discrete Mathematics*.
+
+| Data dimension | Discrete structure | Topics in MFC1 |
+| --- | --- | --- |
+| 0 | | |
+| 1 | | |
+| 2 | | |
+
 #### References
 - Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
 - Rosen, K. (2018) *Discrete Mathematics and Its Applications*. 8th ed. NY: McGraw Hill.
