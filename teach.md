@@ -25,7 +25,7 @@ layout: default
 | 2 | matrix, tree, graph | a relation between sets/on a set |
 
 ### Structured Programming
-*Structured Programming* is the core part of programming, where function is the keyword. I taught this programming approach *using C++* in the course **Elements of Programming** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
+*Structured Programming* is the core part of programming, where a function is the keyword. I taught this programming approach *using C++* in the course **Elements of Programming** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
 
 | Data type | Categories | |
 | --- | --- | --- |
