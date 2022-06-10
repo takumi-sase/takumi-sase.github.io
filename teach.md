@@ -21,8 +21,8 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 | Data dimension | Discrete structures | |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
-| 1 | set, sequence, string | a collection of discrete objects |
-| 2 | matrix, tree, graph | a relation between discrete objects |
+| 1 | set, sequence, string | a collection of discrete objects (set, list) |
+| 2 | matrix, tree, graph | a relation between sets |
 
 #### References
 - Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
