@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md) | [Research](/res.md) | [Publications](/pubs.md) | [Presentations](/presents.md) | [日本語](index-jp.md)
+[Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md) | [Research](/res.md) | [Publications](/pubs.md) | [Presentations](/presents.md)
 * * *
 
 ## Present Position
