@@ -22,7 +22,7 @@ In this course, students had oppotunities to learn about *Discrete Mathematics* 
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
 | 1 | set, sequence, string | a collection of discrete objects |
-| 2 | matrix, tree, graph | relation between discrete objects |
+| 2 | matrix, tree, graph | a relation between discrete objects |
 
 #### References
 - Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
