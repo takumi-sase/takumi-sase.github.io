@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Ph.D.
 ---
 
 [Education](/edu.md) | [Experience](/exp.md) | [Teaching](/teach.md) | [Research](/res.md) | [Publications](/pubs.md) | [Presentations](/presents.md)
