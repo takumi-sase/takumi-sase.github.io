@@ -22,7 +22,7 @@ layout: default
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
 | 1 | set, sequence, string | a collection of discrete objects (set, list) |
-| 2 | matrix, tree, graph | a relation between sets/on a set |
+| 2 | matrix, relation, function, tree, graph | a relationship between sets/on a set |
 
 ### Structured Programming
 *Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++* in the course **Elements of Programming** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
