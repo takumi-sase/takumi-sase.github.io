@@ -27,7 +27,7 @@ layout: default
 ### Structured Programming
 *Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++* in the course **Elements of Programming** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
 
-| Data type | Categories | Stores: |
+| Data type | Category | Stores: |
 | --- | --- | --- |
 | Simple | integral, floating point | scalar data |
 | Structured | array, structure | a list of a fixed number of items |
