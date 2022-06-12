@@ -18,7 +18,7 @@ layout: default
 ### Discrete Mathematics
 *Discrete Maths* is a part of mathematics devoted to the study of mathematical structures of discrete objects, which I handled in the course **Mathematics for Computing I** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 1, 2](#references)
 
-| Data dimension | Discrete structures | |
+| Data dimension | Discrete structure | Represents: |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
 | 1 | set, sequence, string | a collection of discrete objects (set, list) |
