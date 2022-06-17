@@ -39,7 +39,7 @@ layout: default
 || class | a structure with functions
 | Pointer | pointer to each data type | memory addresses |
 
-### Final Year Project
+### <a id="final_year_project">Final Year Project</a>
 Under my supervision, students are allowed to work on any topic (Research, Development) if it is related to *Computer Science*.
 
 ### References
