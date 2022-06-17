@@ -39,9 +39,6 @@ layout: default
 || class | a structure with functions
 | Pointer | pointer to each data type | memory addresses |
 
-### Final Year Project
-Under my supervision, students are allowed to work on any topic (Research, Development) if it is related to *Computer Science*.
-
 ### References
 1. Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
 2. Rosen, K. (2018) *Discrete Mathematics and Its Applications*. 8th ed. NY: McGraw Hill.
