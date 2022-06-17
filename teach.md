@@ -8,7 +8,7 @@ layout: default
 ## Teaching
 
 ### Teaching Interests
-- Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics)
+- Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics), Dynamical Systems
 - Programming&mdash;[Structured Programming](#structured-programming), Object-Oriented Programming
 
 ### Teaching Experience
