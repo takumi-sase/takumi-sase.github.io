@@ -14,7 +14,7 @@ layout: default
 ### Teaching Experience
 <dl>
 <dt>2021/2022</dt>
-  <dd>Mathematics for Computing I, Elements of Programming, <a href="#final_year_project">Final Year Project</a> I</dd>
+  <dd>Mathematics for Computing I, Elements of Programming, Final Year Project I</dd>
 <dt>2020/2021</dt>
   <dd>Mathematics for Computing I, Elements of Programming</dd>
 </dl>
@@ -39,7 +39,7 @@ layout: default
 || class | a structure with functions
 | Pointer | pointer to each data type | memory addresses |
 
-### <a id="final_year_project">Final Year Project</a>
+### Final Year Project
 Under my supervision, students are allowed to work on any topic (Research, Development) if it is related to *Computer Science*.
 
 ### References
