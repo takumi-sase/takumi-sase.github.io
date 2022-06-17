@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | [FYP in KICT, IIUM](/fyp.md)
+[Back](/index.md) | [FYP I & II](/fyp.md)
 * * *
 
 ## Teaching
