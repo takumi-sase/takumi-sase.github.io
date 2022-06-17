@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | [Fynal Year Project](/fyp.md)
+[Back](/index.md) | [For Students](/fyp.md)
 * * *
 
 ## Teaching
