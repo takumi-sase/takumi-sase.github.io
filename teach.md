@@ -14,7 +14,7 @@ layout: default
 ### Teaching Experience
 <dl>
 <dt>2021/2022</dt>
-  <dd>Mathematics for Computing I, Elements of Programming, <a href="#final_year_project">Final Year Project I</a></dd>
+  <dd>Mathematics for Computing I, Elements of Programming, <a href="#final_year_project">Final Year Project</a> I</dd>
 <dt>2020/2021</dt>
   <dd>Mathematics for Computing I, Elements of Programming</dd>
 </dl>
