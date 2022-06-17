@@ -35,7 +35,7 @@ layout: default
 | --- | --- | --- |
 | Simple | integral, floating point | scalar data |
 | Structured | array | a list of a fixed number of items of the *same* data type |
-|| structure | a list of a fixed number of items whose data type may be *different* |
+|| structure | a list of a fixed number of items whose data types may be *different* |
 | Pointer | | memory addresses |
 
 ### Final Year Project
