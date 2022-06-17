@@ -25,7 +25,8 @@ layout: default
 | Data dimension | Discrete structure | Represents: |
 | --- | --- | --- |
 | 0 | number, proposition | discrete objects |
-| 1 | set, sequence, string | a collection of discrete objects (set, list) |
+| 1 | set | a collection of discrete objects |
+|| sequence, string | a list of discrete objects |
 | 2 | matrix, relation, function, tree, graph | a relationship between discrete objects |
 
 ### Structured Programming
