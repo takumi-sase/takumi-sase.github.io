@@ -7,6 +7,10 @@ layout: default
 
 ## Teaching
 
+### Teaching Interests
+- Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics)
+- Programming&mdash;[Structured Programming](#structured-programming), Object-Oriented Programming
+
 ### Teaching Experience
 <dl>
 <dt>2021/2022</dt>
