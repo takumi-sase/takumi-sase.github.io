@@ -1,8 +1,8 @@
 theme: minima
 header_pages:
-- index.md
-- edu.md
+ - index.md
+ - edu.md
 
 title: Takumi Sase, Ph.D.
 plugins:
-- jekyll-sitemap
+ - jekyll-sitemap
