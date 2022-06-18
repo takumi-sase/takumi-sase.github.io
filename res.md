@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | my interest history
+[Back](/index.md)
 * * *
 
 ## Research
