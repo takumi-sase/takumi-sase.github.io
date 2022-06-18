@@ -5,7 +5,7 @@ layout: default
 [Back](/index.md) | 
 * * *
 
-## history
+## interest history
 
 ### 2006&ndash;2007
 Fourier transform, signal processing
@@ -14,4 +14,4 @@ time series analysis, brain-computer interface (BCI), near-infrared spectroscopy
 ### 2008&ndash;2012
 NIRS, electroencephalography (EEG), fractal
 ### 2012&ndash;2016
-EEG, fractal, mathematical modeling
+EEG, mathematical model, fractal, dynamical noise, bifurcation, dynamical system
