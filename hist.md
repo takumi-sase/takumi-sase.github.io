@@ -14,4 +14,4 @@ time series analysis, brain-computer interface (BCI), near-infrared spectroscopy
 ### 2008&ndash;2012
 NIRS, electroencephalography (EEG), fractal
 ### 2012&ndash;2016
-EEG, mathematical model, fractal, dynamical noise, bifurcation, dynamical system
+EEG, mathematical model, fractal, dynamical noise, bifurcation
