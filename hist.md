@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | 
+[Back](/res.md) | 
 * * *
 
 ## interest history
