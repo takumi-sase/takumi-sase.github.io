@@ -17,3 +17,5 @@ NIRS, electroencephalography (EEG), fractal
 EEG mathematical model, fractal, dynamical noise, bifurcation
 ### 2016&ndash;2022
 EEG dynamical system
+### 2022&ndash;Present
+nonlinear human brain electrodynamics, quantum computing
