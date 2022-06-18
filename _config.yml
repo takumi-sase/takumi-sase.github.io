@@ -1,4 +1,7 @@
 theme: minima
 title: Takumi Sase, Ph.D.
+author: 
+   name: Takumi Sase
+   email: takumi@iium.edu.my
 plugins:
  - jekyll-sitemap
