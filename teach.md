@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | Supervision
+[Back](/index.md)
 * * *
 
 ## Teaching
