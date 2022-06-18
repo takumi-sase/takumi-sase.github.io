@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](/index.md) | [history](/hist.md)
+[Back](/index.md)
 * * *
 
 ## Research
