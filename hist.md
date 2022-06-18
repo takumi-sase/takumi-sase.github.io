@@ -13,3 +13,5 @@ Fourier transform, signal processing
 time series analysis, brain-computer interface (BCI), near-infrared spectroscopy (NIRS)
 ### 2008&ndash;2012
 NIRS, electroencephalography (EEG), fractal
+### 2012&ndash;2016
+EEG, fractal, mathematical modeling
