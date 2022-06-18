@@ -12,12 +12,10 @@ layout: default
 - Programming&mdash;[Structured Programming](#structured-programming), Object-Oriented Programming
 
 ### Teaching Experience
-<dl>
-<dt>2021/2022</dt>
-  <dd>Mathematics for Computing I, Elements of Programming, Final Year Project I</dd>
-<dt>2020/2021</dt>
-  <dd>Mathematics for Computing I, Elements of Programming</dd>
-</dl>
+#### 2021/2022
+Mathematics for Computing I, Elements of Programming, Final Year Project I
+#### 2020/2021
+Mathematics for Computing I, Elements of Programming
 
 ### Discrete Mathematics
 *Discrete Maths* is a part of mathematics devoted to the study of mathematical structures of discrete objects, which I handled in the course **Mathematics for Computing I** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 1, 2](#references)
