@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Back](index.md) | my intetest history
+[Back](index.md) | my past intetest & ongoing
 * * *
 
 ## Education
