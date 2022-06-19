@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Publications
 ---
 
 [Back](/index.md)
 * * *
-
-## Publications
 
 ### Papers
 1. <u>Takumi Sase</u> and Marini Othman (2022). **Prediction of ADHD from a Small Dataset Using an Adaptive EEG Theta/Beta Ratio and PCA Feature Extraction**. In: Ghazali, R., Mohd Nawi, N., Deris, M.M., Abawajy, J.H., Arbaiy, N. (eds) *Recent Advances in Soft Computing and Data Mining. SCDM 2022*. Lecture Notes in Networks and Systems, vol 457. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-00828-3_10)
