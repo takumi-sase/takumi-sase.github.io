@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-* * *
-
 ## Present Position
 Assistant Professor  
 Department of Computer Science  
