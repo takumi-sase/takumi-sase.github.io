@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Teaching
 ---
 
 [Back](/index.md)
 * * *
-
-## Teaching
 
 ### Teaching Interests
 - Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics), Dynamical Systems
