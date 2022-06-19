@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 
-[Back](/index.md)
 * * *
 
 ### Research Interests
