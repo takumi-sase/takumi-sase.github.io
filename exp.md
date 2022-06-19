@@ -1,11 +1,11 @@
 ---
 layout: page
+title: Experience
 ---
 
 [Back](/index.md)
 * * *
 
-## Experience
 ### 10/2020&ndash;Present
 ***Assistant Professor***  
 Department of Computer Science, Kulliyyah of Information and Communication Technology, International Islamic University Malaysia, Malaysia
