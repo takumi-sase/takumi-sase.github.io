@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-* * *
+## Research
 
 ### Research Interests
 My interest is to unravel nonlinear dynamics of brain computing, at the micro-macro scale. It means, to describe the brain (neurons, synapses, networks) by a nonlinear dynamical system, so that we can simulate brain's activity (EEG etc.) on a computer.
