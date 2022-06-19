@@ -3,6 +3,7 @@ layout: page
 title: Education
 ---
 
+## Education
 * * *
 
 ### 03/2016
