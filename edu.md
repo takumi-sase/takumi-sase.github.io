@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Education
 ---
 
 [Back](index.md)
