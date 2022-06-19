@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-[Back](/index.md)
 * * *
 
 ### Papers
