@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-* * *
+## Presentations
 
 ### Presentations (International)
 1. <u>Takumi Sase</u> and Raini Hassan (December 2018). **Brain and Artificial Intelligence: From the Viewpoint of Spontaneous and Task-Evoked Brain Dynamics**. The 6th International Conference on Advanced Computer Science Applications and Technologies (ACSAT 2018), Langkawi, Malaysia.
