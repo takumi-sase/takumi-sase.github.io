@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 
-* * *
+## Experience
 
 ### 10/2020&ndash;Present
 ***Assistant Professor***  
