@@ -6,8 +6,6 @@ title: Education
 [Back](index.md)
 * * *
 
-## Education
-
 ### 03/2016
 ***Doctor of Philosopy in Information Science and Technology***  
 Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan  
