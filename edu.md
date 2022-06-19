@@ -6,7 +6,7 @@ title: Education
 ## Education
 
 ### 03/2016
-***Doctor of Philosopy in Information Science and Technology***  
+***Doctor of Philosophy in Information Science and Technology***  
 Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan  
 Thesis title: [Analyses on Nonlinear Dynamics with Multiple Time-Scales in the Brain (脳における多重時間スケールを有する非線形ダイナミクスの解析)](https://repository.dl.itc.u-tokyo.ac.jp/records/48069#.YpSq21PmhPw)  
 Laboratories for Mathematics, Lifesciences, and Informatics  
