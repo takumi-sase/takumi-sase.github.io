@@ -3,7 +3,6 @@ layout: page
 title: Teaching
 ---
 
-[Back](/index.md)
 * * *
 
 ### Teaching Interests
