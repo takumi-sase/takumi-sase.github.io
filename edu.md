@@ -4,7 +4,6 @@ title: Education
 ---
 
 ## Education
-* * *
 
 ### 03/2016
 ***Doctor of Philosopy in Information Science and Technology***  
