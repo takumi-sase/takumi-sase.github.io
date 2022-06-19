@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-* * *
+## Teaching
 
 ### Teaching Interests
 - Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics), Dynamical Systems
