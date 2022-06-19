@@ -5,3 +5,8 @@ plugins:
 header_pages:
   - index.md
   - edu.md
+  - exp.md
+  - teach.md
+  - res.md
+  - pubs.md
+  - presents.md
