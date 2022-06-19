@@ -3,7 +3,6 @@ layout: page
 title: Education
 ---
 
-[Back](index.md)
 * * *
 
 ### 03/2016
