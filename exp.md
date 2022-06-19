@@ -3,7 +3,6 @@ layout: page
 title: Experience
 ---
 
-[Back](/index.md)
 * * *
 
 ### 10/2020&ndash;Present
