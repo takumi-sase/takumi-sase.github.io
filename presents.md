@@ -3,7 +3,6 @@ layout: page
 title: Presentations
 ---
 
-[Back](/index.md)
 * * *
 
 ### Presentations (International)
