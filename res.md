@@ -6,7 +6,8 @@ title: Research
 ## Research
 
 ### Research Interests
-My interest is to unravel nonlinear dynamics of brain computing, at the micro-macro scale. It means, to describe the brain (neurons, synapses, networks) by a nonlinear dynamical system, so that we can simulate & predict brain's activity (EEG etc.) on a computer.
+My interest is to unravel nonlinear dynamics of brain computing, at the micro-macro scale.
+It means, to describe the brain (neurons, synapses, networks) by a nonlinear dynamical system, so that we can simulate our brain's activity (EEG etc.) on a computer, predict the future brain state which may be healthier or not, and keep it or control by making another state.
 
 ### Research Topics
 - Mathematical Modelling of Nonlinear Human Brain Electrodynamics
