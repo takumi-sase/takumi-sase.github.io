@@ -6,7 +6,7 @@ title: Presentations
 ## Presentations
 
 ### Presentations (International)
-1. <u>Takumi Sase</u> and Marini Othman (May 2022). **Prediction of ADHD from a Small Dataset Using an Adaptive EEG Theta/Beta Ratio and PCA Feature Extraction**. Proceedings of the Fifth International Conference on Soft Computing and Data Mining (SCDM 2022), Universiti Tun Hussein Onn Malaysia (Online).
+1. <u>Takumi Sase</u> and Marini Othman (May 2022). **Prediction of ADHD from a Small Dataset Using an Adaptive EEG Theta/Beta Ratio and PCA Feature Extraction**. Proceedings of the Fifth International Conference on Soft Computing and Data Mining (SCDM 2022), Johor, Malaysia (Online).
 2. <u>Takumi Sase</u> and Raini Hassan (December 2018). **Brain and Artificial Intelligence: From the Viewpoint of Spontaneous and Task-Evoked Brain Dynamics**. The 6th International Conference on Advanced Computer Science Applications and Technologies (ACSAT 2018), Langkawi, Malaysia.
 3. <u>Takumi Sase</u> and Keiichi Kitajo (November 2018). **Modeling the individual brain dynamics by a data assimilation approach**. 48th Annual Meeting of the Society for Neuroscience 2018, San Diego, USA.
 4. Keiichi Kitajo, <u>Takumi Sase</u>, Yoko Mizuno, Hiromichi Suetani (July 2018). **Variability in noise-induced neural dynamics in the human brain**. The 41th Annual Meeting of the Japan Neuroscience Society, Hyogo, Japan.
