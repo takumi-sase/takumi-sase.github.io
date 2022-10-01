@@ -6,4 +6,4 @@ title: Research Notes
 ## Research Notes
 
 ### Neural Mass Model
-The neural
+The neural mass model (NMM) proposed by Jansen and Rit is one of the models incoporating action potentials and postsynaptic potentials (PSPs) macroscopically.
