@@ -41,7 +41,7 @@ Mathematics for Computing I, Elements of Programming
 Under my supervision, students are allowed to work on any topic (Research, Development) if it is related to *Data Science*.
 
 ### References
-1. Kolman, B., Busby, R., Ross, S. (2018) *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
-2. Rosen, K. (2018) *Discrete Mathematics and Its Applications*. 8th ed. NY: McGraw Hill.
-3. Malik, D. S. (2018), *C++ Programming: From Problem Analysis to Program Design* (7th ed.). United States: Cengage Learning.
-4. Bronson, G. J. (2012), *A First Book of C++* (4th ed.). United States: Cengage Learning.
+1. Kolman, B., Busby, R., Ross, S. (2018). *Discrete mathematical structures*. 6th ed. NJ: Pearson Prentice Hall.
+2. Rosen, K. (2018). *Discrete Mathematics and Its Applications*. 8th ed. NY: McGraw Hill.
+3. Malik, D. S. (2018). *C++ Programming: From Problem Analysis to Program Design* (7th ed.). United States: Cengage Learning.
+4. Bronson, G. J. (2012). *A First Book of C++* (4th ed.). United States: Cengage Learning.
