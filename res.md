@@ -13,8 +13,9 @@ It means, to describe the brain (neurons, synapses, networks) by a nonlinear dyn
 - Mathematical Modelling of Nonlinear Brain Electrodynamics
   - T. Sase & K. Kitajo (2021). **The metastable brain associated with autistic-like traits of typically developing individuals**. *PLOS Comput Biol.* 17(4): e1008929. [DOI](https://doi.org/10.1371/journal.pcbi.1008929)
   - T. Sase, Y. Katori, M. Komuro, and K. Aihara (2017). **Bifurcation Analysis on Phase-Amplitude Cross-Frequency Coupling in Neural Networks with Dynamic Synapses**. *Front Comput Neurosci.* 11(18). [DOI](https://www.frontiersin.org/article/10.3389/fncom.2017.00018)
+- Data-Driven Analysis of EEG Data
+  - T. Sase & K. Kitajo (2021). **The metastable brain associated with autistic-like traits of typically developing individuals**. *PLOS Comput Biol.* 17(4): e1008929. [DOI](https://doi.org/10.1371/journal.pcbi.1008929)
   - T. Sase, J. P. Ramírez, K. Kitajo, K. Aihara, and Y. Hirata (2016). **Estimating the level of dynamical noise in time series by using fractal dimensions**. *Phys Lett A* 380(11&ndash;12): 1151&ndash;1163. [DOI](https://doi.org/10.1016/j.physleta.2016.01.014)
-- Development of the EEG Simulator
 
 ### Disciplines
 Computational Neuroscience, Applied Mathematics
