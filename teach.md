@@ -6,7 +6,7 @@ title: Teaching
 ## Teaching
 
 ### Teaching Interests
-- Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics), Dynamical Systems
+- Mathematics&mdash;[Discrete Mathematics](#discrete-mathematics), Cryptography, Dynamical Systems
 - Programming&mdash;[Structured Programming](#structured-programming), Object-Oriented Programming
 
 ### Teaching Experience
