@@ -9,6 +9,8 @@ title: Research
 My interest is to unravel nonlinear dynamics of brain computing, at the micro-macro scale.
 It means, to describe the brain (neurons, synapses, networks) by a nonlinear dynamical system, so that we can simulate & predict brain's activity (EEG etc.) on a computer.
 
+Another interest is how we can keep our mental states always healthier, with the aid of Computer Science. This may be achieved by focusing on daily social data. 
+
 ### Research Topics
 - Data-Driven Analysis of Nonlinear Human Brain Electrodynamics
   - T. Sase & M. Othman (2022). **Prediction of ADHD from a Small Dataset Using an Adaptive EEG Theta/Beta Ratio and PCA Feature Extraction**. *Recent Advances in Soft Computing and Data Mining. SCDM 2022*. Lecture Notes in Networks and Systems, vol 457. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-00828-3_10)
