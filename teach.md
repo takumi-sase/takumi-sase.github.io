@@ -32,7 +32,7 @@ Mathematics for Computing I, Elements of Programming
 
 | Data type | Category | Stores: |
 | --- | --- | --- |
-| Simple | integer, floating point | scalar data |
+| Primitive | integer, floating point | scalar data |
 | Structured | array | a list of a fixed number of items of the *same* data type |
 || structure (in C++) | a list of a fixed number of items whose data types may be *different* |
 || class | a structure with methods
