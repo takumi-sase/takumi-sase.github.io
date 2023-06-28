@@ -18,17 +18,17 @@ Mathematics for Computing I, Elements of Programming, Final Year Project I
 Mathematics for Computing I, Elements of Programming
 
 ### Discrete Mathematics
-*Discrete Maths* is a part of mathematics devoted to the study of mathematical structures of discrete objects, which I handled in the course **Mathematics for Computing I** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 1, 2](#references)
+*Discrete Maths* is a part of mathematics devoted to the study of mathematical structures of discrete objects, which I handled in the course **Mathematics for Computing I** in KICT, IIUM (2020/2021, 2021/2022, 2022/2023). [Ref 1, 2](#references)
 
 | Data dimension | Discrete structure | Represents: |
 | --- | --- | --- |
-| 0 | number, proposition | discrete objects |
+| 0 | number, character, proposition | discrete objects |
 | 1 | set | a collection of discrete objects |
 || sequence, string | a list of discrete objects |
 | 2 | matrix, relation, function, tree, graph | a relationship between discrete objects |
 
 ### Structured Programming
-*Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++* in the course **Elements of Programming** in KICT, IIUM (Sem 1 & 2 2020/2021, Sem 1 & 2 2021/2022). [Ref 3, 4](#references)
+*Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++ and Java* in the course **Elements of Programming** in KICT, IIUM (S2020/2021, 2021/2022, 2022/2023). [Ref 3, 4](#references)
 
 | Data type | Category | Stores: |
 | --- | --- | --- |
