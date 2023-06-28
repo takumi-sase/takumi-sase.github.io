@@ -10,6 +10,8 @@ title: Teaching
 - Programming&mdash;[Structured Programming](#structured-programming), Object-Oriented Programming
 
 ### Teaching Experience
+#### 2022/2023
+Mathematics for Computing I, Elements of Programming, Final Year Project II, Final Year Project I, Cryptography
 #### 2021/2022
 Mathematics for Computing I, Elements of Programming, Final Year Project I
 #### 2020/2021
