@@ -28,7 +28,7 @@ Mathematics for Computing I, Elements of Programming
 | 2 | matrix, relation, function, tree, graph | a relationship between discrete objects |
 
 ### Structured Programming
-*Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++ and Java* in the course **Elements of Programming** in KICT, IIUM (S2020/2021, 2021/2022, 2022/2023). [Ref 3, 4](#references)
+*Structured Programming* is the core part of programming, where a problem can be solved by the combination of functions. I taught this programming approach *using C++ and Java* in the course **Elements of Programming** in KICT, IIUM (2020/2021, 2021/2022, 2022/2023). [Ref 3, 4](#references)
 
 | Data type | Category | Stores: |
 | --- | --- | --- |
