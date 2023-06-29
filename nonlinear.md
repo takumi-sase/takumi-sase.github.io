@@ -9,4 +9,4 @@ It's better to know what the linear dynamical system is before going to the nonl
 
 $$ \frac{{\rm{d}}x}{{\rm{d}}t}=Ax(t), $$
 
-where 
+where $x(t)$ is a state in a $n$-dimensional state space, i.e., $x(t)\in R$ at time $t$ 
