@@ -5,4 +5,4 @@ title: Research Notes
 
 ## Why nonlinear?
 ### Linear dynamical system
-The neural mass model (NMM) proposed by Jansen and Rit is one of the models incorporating action potentials and postsynaptic potentials (PSPs) macroscopically.
+It's better to know what the linear dynamical system is before going to the nonlinear.
