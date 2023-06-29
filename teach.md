@@ -34,7 +34,7 @@ Mathematics for Computing I, Elements of Programming
 | --- | --- | --- |
 | Primitive | integer, floating point | scalar data |
 | Structured | array | a list of a fixed number of items of the *same* data type |
-|| structure (in C++) | a list of a fixed number of items whose data types may be *different* |
+|| structure | a list of a fixed number of items whose data types may be *different* |
 || class | a structure with methods
 | Pointer | pointer to each data type | memory address |
 
