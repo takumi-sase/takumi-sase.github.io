@@ -5,7 +5,7 @@ title: Why nonlinear?
 
 ## Why nonlinear?
 ### Linear dynamical system
-It's better to know what the linear dynamical system is first. A linear dynamical system is defined as
+A linear dynamical system is defined as
 
 $$ \frac{{\rm{d}}x}{{\rm{d}}t}=Ax(t), $$
 
