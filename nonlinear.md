@@ -17,6 +17,6 @@ $$ x(t)=e^{At}, $$
 
 so the general solution is
 
-$$ x(t)=Ce^{At} $$
+$$ x(t)=e^{At}C $$
 
-where $C$ is an arbitrary constant matrix.
+where $C$ is an arbitrary constant vector.
