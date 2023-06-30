@@ -22,9 +22,3 @@ $$ x(t)=e^{At}c $$
 where $c$ is an arbitrary constant vector. Then, clearly
 
 $$ x(t)=e^{At}x(0). $$
-
-Or equivalently,
-
-$$ x_{i}(t)=\sum_{j=1}^{d}e^{a_{ij}t}x_{j}(0) $$
-
-for $i=1,2,...,d$, where $x_{i}(t)$ denotes the $i$-th element of $x(t)$.
