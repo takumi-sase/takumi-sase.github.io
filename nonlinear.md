@@ -13,10 +13,10 @@ where $x(t)$ is a state of this system at time $t$, and $A$ determines the relat
 
 Importantly, we can analyse this system without giving examples. A particular solution is found as
 
-$$ x(t)=e^{Ax(t)}, $$
+$$ x(t)=e^{At}, $$
 
 so the general solution is
 
-$$ x(t)=Ce^{Ax(t)} $$
+$$ x(t)=Ce^{At} $$
 
 where $C$ is an arbitrary constant matrix.
