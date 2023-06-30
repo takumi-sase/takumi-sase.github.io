@@ -19,4 +19,4 @@ so the general solution is
 
 $$ x(t)=Ce^{Ax(t)} $$
 
-where $C$ is an arbitrary constant.
+where $C$ is an arbitrary constant matrix.
