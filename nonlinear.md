@@ -13,5 +13,5 @@ where $x(t)$ is a state of this system at time $t$, and $A$ determines the relat
 
 Importantly, we can analyse this system without giving examples. A particular solution is found as
 
-$$ x(t)=C\exp{At} $$
+$$ x(t)=e^{Ax(t)} $$
 
