@@ -25,6 +25,6 @@ $$ x(t)=e^{At}x(0). $$
 
 Or equivalently,
 
-$$ x_{i}(t)=\sum_{j=1}^{d}e^{A_{ij}t}x_{j}(0), $$
+$$ x_{i}(t)=\sum_{j=1}^{d}e^{a_{ij}t}x_{j}(0), $$
 
 where $x_{i}(t)$ denotes the $i$-th element of $x(t)$.
