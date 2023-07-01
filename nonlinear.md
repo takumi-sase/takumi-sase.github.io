@@ -23,7 +23,7 @@ where $c$ is an arbitrary constant vector. Then, clearly
 
 $$ x(t)=e^{At}x(0). $$
 
-Furthermore, discretising the time by $t=k{\Delta}t$, for $k\in\mathbb{N}\cup\\{0\\}$, yields
+Furthermore, discretising the time by $t=k{\Delta}t$ yields
 
 $$
 \begin{aligned}
