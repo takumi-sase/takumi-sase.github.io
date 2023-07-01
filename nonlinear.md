@@ -28,9 +28,10 @@ Furthermore, discretising the time by $t=k{\Delta}t$, for $k\in\mathbb{N}\cup\\{
 $$
 \begin{aligned}
 x(k{\Delta}t)&=e^{Ak{\Delta}t}x(0) \\
-&=\left(e^{A{\Delta}t}\right)^{k}x(0) \\
-x(k)&=B^{k}x(0),
+&=\left(e^{A{\Delta}t}\right)^{k}x(0),
 \end{aligned}
 $$
 
-where $B=e^{A{\Delta}t}$.
+and by setting $B=e^{A{\Delta}t}$,
+
+$$x(k)=B^{k}x(0).$$
