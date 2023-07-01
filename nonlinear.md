@@ -22,3 +22,7 @@ $$ x(t)=e^{At}c $$
 where $c$ is an arbitrary constant vector. Then, clearly
 
 $$ x(t)=e^{At}x(0). $$
+
+Furthermore, discretizing the time by $t=k{\Delta}t$, for $k\in\mathbb{N}$, yields
+
+$$ x(t)=e^{Ak{\Delta}t}x(0) $$
