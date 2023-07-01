@@ -33,4 +33,4 @@ x(t)&=e^{Ak{\Delta}t}x(0) \\
 \end{aligned}
 $$
 
-where we set $B=e^{A{\Delta}t}$.
+where $B=e^{A{\Delta}t}$.
