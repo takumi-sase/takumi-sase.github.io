@@ -25,4 +25,9 @@ $$ x(t)=e^{At}x(0). $$
 
 Furthermore, discretizing the time by $t=k{\Delta}t$, for $k\in\mathbb{N}\cup\\{0\\}$, yields
 
-$$ x(t)=e^{Ak{\Delta}t}x(0) $$
+$$
+\begin{aligned}
+x(t)&=e^{Ak{\Delta}t}x(0) \\
+&=\left(e^{A{\Delta}t}\right)^{k}x(0)
+\end{aligned}
+$$
