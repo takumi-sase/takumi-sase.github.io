@@ -29,6 +29,8 @@ $$
 \begin{aligned}
 x(t)&=e^{Ak{\Delta}t}x(0) \\
 &=\left(e^{A{\Delta}t}\right)^{k}x(0) \\
-&=B^{k}x(0)
+&=B^{k}x(0),
 \end{aligned}
 $$
+
+where $B{\coloneqq}e^{A{\Delta}t}$.
