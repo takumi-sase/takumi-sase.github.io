@@ -27,9 +27,9 @@ Furthermore, discretizing the time by $t=k{\Delta}t$, for $k\in\mathbb{N}\cup\\{
 
 $$
 \begin{aligned}
-x(t)&=e^{Ak{\Delta}t}x(0) \\
+x(k{\Delta}t)&=e^{Ak{\Delta}t}x(0) \\
 &=\left(e^{A{\Delta}t}\right)^{k}x(0) \\
-&=B^{k}x(0),
+x(k)&=B^{k}x(0),
 \end{aligned}
 $$
 
