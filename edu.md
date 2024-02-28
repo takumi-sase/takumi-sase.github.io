@@ -16,15 +16,12 @@ Supervisor: Prof. Dr. Kazuyuki Aihara
 ***Master of Engineering***  
 Department of Electrical, Electronics and Information Engineering, Graduate School of Engineering, Nagaoka University of Technology, Japan  
 Chaos & Fractals Informatics Laboratory  
-Supervisor: Prof. Dr. Masahiro Nakagawa
 
 ### 03/2010
 ***Bachelor of Engineering***  
 Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Nagaoka University of Technology, Japan  
 Chaos & Fractals Informatics Laboratory  
-Supervisor: Prof. Dr. Masahiro Nakagawa
 
 ### 03/2008
 ***Associate of Engineering***  
 Department of Information and Computer Engineering, Kisarazu National College of Technology, Japan  
-Supervisor: Prof. Dr. Ikusaburo Kurimoto
